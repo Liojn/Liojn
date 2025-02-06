@@ -1,16 +1,25 @@
-## Hi there 👋
+###Hi there! 👋 I'm Kiefer Yew
 
-<!--
-**Liojn/Liojn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 #Passionate Full-Stack Developer | 📍 #Singapore | 🎓 #Ngee Ann Polytechnic IT Student
+***
+👨‍💻 ##About Me
 
-Here are some ideas to get you started:
+🎯 Aspiring full-stack developer with skills in #JavaScript, #React.js, #Node.js, and #Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about #problem-solving, #software development, #and innovation.
+
+🎓 Currently pursuing a #Diploma in Information Technology at #Ngee Ann Polytechnic.
+
+🎤 Confident public speaker and #team player with strong interpersonal skills.
+
+🌍 Open to #collaborations, #internships, #and exciting tech opportunities!
+
+***
+📫 ##Connect with Me!
+
+💼 #LinkedIn: https://www.linkedin.com/in/kiefer-yew/
+
+📧 #Email: kyew06@gmail.com
+
+🔍 Always eager to learn, explore, and contribute to exciting projects! Let's connect and build something amazing together. 🚀
+
