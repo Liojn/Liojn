@@ -4,7 +4,7 @@
 ***
 ## 👨‍💻 About Me
 
-🎯 Aspiring full-stack developer with skills in **JavaScript**, **React.js, **Node.js**, and **Python**.
+🎯 Aspiring full-stack developer with skills in **JavaScript**, **React.js**, **Node.js**, and **Python**.
 
 💡 Passionate about **problem-solving**, **software development**, **and innovation**.
 
