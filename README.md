@@ -12,7 +12,7 @@
 
 🎤 Confident public speaker and **team player** with strong interpersonal skills.
 
-🌍 Open to #collaborations, **internships**, **and exciting tech opportunities!**
+🌍 Open to **collaborations**, **internships**, **and exciting tech opportunities!**
 
 ***
 ## 📫 Connect with Me!
